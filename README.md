@@ -1,2 +1,2 @@
 # Toy-Problem
-The purpose of this repo is that to be a holder repo for daily toy problems. Keeping these will allow me to review previous problems, track progress or problems I encounter, and map the trends I see.
+The purpose of this repo is that to be a holder repo for daily toy problems. Keeping these will allow me to review previous problems, track progress or problems I encounter, and map the trends I see while working through problems. It will also serve to help me avoid repeating problems unless that is my intention.
