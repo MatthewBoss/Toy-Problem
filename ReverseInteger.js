@@ -25,4 +25,22 @@
 
 var reverse = function (x) {
 
+  if (x > (231 - 1) || (x < -231)) {
+    return 0;
+  }
+
+  let finalNums = [];
+  let result;
+
+  let nums = x.toString().split("");
+
+  for (var i = nums.length - 1; i > 0; i--) {
+    if (nums[nums.length - 1] === '0') {
+      continue;
+    }
+    finalNums.push(nums[i]);
+  }
+
+  result = finalNums.join()
+  return parseInt(result);
 };
